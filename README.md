@@ -1,0 +1,1 @@
+Function Generator (PCB with LM566): Designed and built a function generator circuit using KiCad, including simulation, validation, and component selection, gaining hands-on experience in PCB design and prototyping.
